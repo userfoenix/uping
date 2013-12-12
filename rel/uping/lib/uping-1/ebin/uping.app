@@ -1,4 +1,4 @@
-%% app generated at {2013,12,12} {17,25,23}
+%% app generated at {2013,12,12} {17,28,57}
 {application,uping,
              [{description,[]},
               {vsn,"1"},
